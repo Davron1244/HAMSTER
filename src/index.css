@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body{
+    background: #a0a0a0;
+}
+
+.border-hour{
+    border: 1px solid #8575756E;
+    border: 1px solid #8575756E;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
