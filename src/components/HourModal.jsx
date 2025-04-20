@@ -11,9 +11,9 @@ const HourModal = ({ closeHourModal }) => {
           className="cursor-pointer"
         />
       </div>
-      <img width={400} style={{marginTop:40}} src="./public/Group 19.svg" alt="" />
-      <img width={400} style={{marginTop:10}} src="./public/Group 19.svg" alt="" />
-      <img width={400} style={{marginTop:10}} src="./public/Group 19.svg" alt="" />
+      <img width={400} style={{marginTop:40}} src="/public/Group 19.svg" alt="" />
+      <img width={400} style={{marginTop:10}} src="/public/Group 19.svg" alt="" />
+      <img width={400} style={{marginTop:10}} src="/public/Group 19.svg" alt="" />
     </div>
   );
 };
