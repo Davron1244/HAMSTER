@@ -17,7 +17,7 @@ const TabModal = ({ closeTabModal, stepByStep }) => {
         onClick={() => stepByStep(1000)}
         style={{ marginTop: 20 }}
         width={300}
-        src="/public/Group 27.svg"
+        src="/Group 27.svg"
         alt=""
       />
 
@@ -25,7 +25,7 @@ const TabModal = ({ closeTabModal, stepByStep }) => {
         onClick={() => stepByStep(2000)}
         style={{ marginTop: 20 }}
         width={300}
-        src="/public/Group 28 (1).svg"
+        src="/Group 28 (1).svg"
         alt=""
       />
 
@@ -33,7 +33,7 @@ const TabModal = ({ closeTabModal, stepByStep }) => {
         onClick={() => stepByStep(6000)}
         style={{ marginTop: 20 }}
         width={300}
-        src="/public/Group 30.svg"
+        src="/Group 30.svg"
         alt=""
       />
     </div>

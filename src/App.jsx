@@ -59,7 +59,7 @@ const App = () => {
         <div onClick={showTabModal} className="earnpertap__page bg-[#32363C] w-[117px] h-[50px] rounded-[10px] text-center mt-[50px]">
           <p className="text-[#F79841] text-[11px] mt-[5px]">Earn per tap</p>
           <div className="coin flex gap-[3px] ml-[33px]">
-            <img src="/public/Group 8.svg" alt="" />
+            <img src="/Group 8.svg" alt="" />
             <p className="text-white">+{EarnCount}</p>
           </div>
         </div>
@@ -74,26 +74,26 @@ const App = () => {
         <div onClick={showHourModal} className="earnpertap__page bg-[#32363C] w-[117px] h-[50px] rounded-[10px] text-center mt-[50px]">
           <p className="text-[#6F72E2] text-[11px] mt-[5px]">Profit per hour</p>
           <div className="coin flex gap-[3px] ml-[33px]">
-            <img src="/public/Group 8.svg" alt="" />
+            <img src="/Group 8.svg" alt="" />
             <p className="text-white">+636</p>
           </div>
         </div>
       </div>
 
       <div className="coin__up flex justify-center mt-[38px]">
-        <img width={42} height={42} src="/public/Group 8.svg" alt="" />
+        <img width={42} height={42} src="/Group 8.svg" alt="" />
         <h1 className="text-[40px] text-white font-[600]">{counter.toLocaleString()}</h1>
       </div>
 
       <div className="hamster">
         <button id="hamsterCounter" onClick={hamsterCount} className="hamster-btn cursor-[pointer] mt-[110px] ml-[53px]">
-          <img className="mx-auto" src="/public/Group 24.svg" alt="" />
+          <img className="mx-auto" src="/Group 24.svg" alt="" />
         </button>
       </div>
 
       <div className="Boost flex justify-between p-[28px]">
         <div className="speed flex gap-[5px]">
-          <img src="/public/Vector.svg" alt="" />
+          <img src="/Vector.svg" alt="" />
           <p className="text-white">
             <span className="rock">6500</span> / <span className="variable">{speedValue}</span>
           </p>
@@ -103,7 +103,7 @@ const App = () => {
 
       <div className="bg-[#32363CB2] w-[368px] h-[60px] ml-[30px] rounded-[12px]">
         <div className="exchange bg-[#21242980] pt-[5px] pb-[5px] pl-[12px] pr-[12px] w-[65px] rounded-[8px]">
-          <img className="ml-[9px]" src="/public/Union.svg" alt="" />
+          <img className="ml-[9px]" src="/Union.svg" alt="" />
           <p className="text-[10px] text-white mt-[3px]">Exchange</p>
         </div>
       </div>
