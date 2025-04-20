@@ -9,3 +9,7 @@ body{
     border: 1px solid #8575756E;
 }
 
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
